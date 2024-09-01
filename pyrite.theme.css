@@ -1,22 +1,19 @@
+
 @import url('https://leafyluigi.github.io/discord-themes/pyrite/build/base.css');
-@import url('https://leafyluigi.github.io/discord-themes/pyrite/build/vencord.css');
-@import url('https://leafyluigi.github.io/discord-themes/pyrite/build/horizontal-server-list.css');
-@import url('https://leafyluigi.github.io/discord-themes/pyrite/build/borders.css');
 @import url('https://leafyluigi.github.io/discord-themes/pyrite/build/userModalLayout.css');
-@import url('https://leafyluigi.github.io/discord-themes/pyrite/build/better-discord.css');
 @import url('https://leafyluigi.github.io/discord-themes/pyrite/build/vencord.css');
 @import url('https://leafyluigi.github.io/discord-themes/pyrite/build/horizontal-server-list.css');
 
 :root {
-  --primary-color: #9B9B9B;
-  --secondary-color: #FFFFFF;
-  --hover-color: #000000;
+  --primary-color: #A979FF;
+  --secondary-color: #000000;
+  --hover-color: #404040;
   --tooltip-color: #000000;
   --background-image: url('https://w.wallhaven.cc/full/9d/wallhaven-9d8e1x.jpg');
   --background-attachment: fixed;
   --user-modal-image: url('https://raw.githubusercontent.com/theblu3j/clear/main/black.jpg');
   --user-modal-attachment: fixed;
-  --user-modal-width: 900px;
+  --user-modal-width: 600px;
   --user-modal-height: 600px;
   --user-popout-image: url('https://raw.githubusercontent.com/theblu3j/clear/main/black.jpg');
   --user-popout-attachment: fixed;
@@ -35,30 +32,24 @@
   --live-color: #583594;
   --offline-color: #737e8c;
   --link-color: #00aef3;
-  --body-font: Inter,"gg sans";
+  --body-font: Inter,Monocraft;
   --code-font: Monocraft,hack;
-  --hide-speed: 0.2s;
+  --hide-speed: 0.18s;
   --hide-member-list: 1;
   --hide-active-now: 1;
   --hide-profile-panel: 1;
   --hide-channel-list: 0.7;
   --mention-background: #000000;
-  --mention-opacity: 0.3;
+  --mention-opacity: 0.4;
   --win-min-max-close-button-width: 28px;
-  --card-background: rgb(0,0,0,0.42);
-  --side-shading: rgb(0,0,0,0.61);
-  --middle-shading: rgb(0,0,0,0.17);
-  --header-shading: rgb(17,17,17,0.85);
-  --hover-filter: rgba(255,255,255,0.2);
-  --active-filter: rgba(255,255,255,0.4);
-  --card-background: rgb(0,0,0,0.42);
-  --side-shading: rgb(0,0,0,0.61);
-  --middle-shading: rgb(0,0,0,0.17);
-  --header-shading: rgb(17,17,17,0.85);
-  --hover-filter: rgba(255,255,255,0.2);
-  --active-filter: rgba(255,255,255,0.4);
-  --HSL-server-icon-size: 32px;
-  --HSL-server-spacing: 5px;
+  --card-background: rgba(0,0,0,0.5);
+  --side-shading: rgb(0,0,0,0.74);
+  --middle-shading: rgb(0,0,0,0.18);
+  --header-shading: rgb(0,0,0,0.7);
+  --hover-filter: rgb(0,0,0,0.4);
+  --active-filter: rgb(0,0,0,0.5);
+  --HSL-server-icon-size: 40px;
+  --HSL-server-spacing: 10px;
   --HSL-server-direction: column;
   --update-notice-dec23: none; /* Debug; please do not touch */
 }
