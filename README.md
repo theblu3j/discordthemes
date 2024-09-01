@@ -1,2 +1,2 @@
-# clear
-personal modification of clear vision theme
+# discord themes
+personal modification of discord themes
