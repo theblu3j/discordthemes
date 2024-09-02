@@ -43,7 +43,7 @@
   --mention-opacity: 0.4;
   --win-min-max-close-button-width: 28px;
   --card-background: rgba(0,0,0,0.5);
-  --side-shading: rgb(0,0,0,0.74);
+  --side-shading: rgb(0,0,0,1);
   --middle-shading: rgb(0,0,0,0.18);
   --header-shading: rgb(0,0,0,0.7);
   --hover-filter: rgb(0,0,0,0.4);
