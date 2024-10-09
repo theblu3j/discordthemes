@@ -32,8 +32,8 @@
   --live-color: #583594;
   --offline-color: #737e8c;
   --link-color: #00aef3;
-  --body-font: Inter,Monocraft;
-  --code-font: Monocraft,hack;
+  --body-font: Inter,Monocraft Nerd Font;
+  --code-font: Monocraft Nerd Font,hack;
   --hide-speed: 0.18s;
   --hide-member-list: 1;
   --hide-active-now: 1;
